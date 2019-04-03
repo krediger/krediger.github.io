@@ -8,6 +8,7 @@ tags: sides, vegetables
 ingredients:
 - 1 bunch of okra
 - salt, pepper, etc to taste
+- crf
 
 directions:
 - Wash the okra dang good
