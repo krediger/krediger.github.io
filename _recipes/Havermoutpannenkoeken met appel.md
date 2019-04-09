@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Havermoutpannenkoekjes met appel"
-image: "Havermoutpannenkoeken met appel.JPG"
+image: "havermoutpannenkoeken-met-appel.jpg"
 tags: breakfast, baking
 
 ingredients:
