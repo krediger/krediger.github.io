@@ -2,6 +2,15 @@
   
     {
     
+	    "title"    : "Havermoutpannenkoekjes met appel",
+		"ingredients"    : "2 appelen, 2 dl melk, 2 eetlepels + 8 koffielepels boter, 2 eieren, 4 eetlepels vloeibare honing of ahornsiroop, 10 eetlepels havermout, 5 eetlepels tarwebloem, 2 eetlepels rietsuiker, zout, ",
+		"image"	   : "Havermoutpannenkoeken met appel.JPG",
+	    "url"      : "/recipes/Havermoutpannenkoeken%20met%20appel.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Banana Bread",
 		"ingredients"    : "4 bananas, 1/2 cup butter, 1/2 cup sugar, 2 eggs, 2 cups flour, 1/2 tsp baking soda, 1 tsp baking powder, pinch salt, 1/4 cup nuts (we like pecans), ",
 		"image"	   : "banana-bread.jpg",
@@ -21,7 +30,7 @@
     {
     
 	    "title"    : "Crockpot Buffalo Chicken",
-		"ingredients"    : "6-8 chicken breasts, 1 packet ranch mix, 1 bottle Frank's Red Hot, 1 stick of butter, ",
+		"ingredients"    : "6-8 chicken breasts, 1 packet ranch mix, 1 bottle Frank&#39;s Red Hot, 1 stick of butter, ",
 		"image"	   : "crockpot-buffalo-chicken.jpg",
 	    "url"      : "/recipes/crockpot-buffalo-chicken.html"
       
@@ -84,7 +93,7 @@
     {
     
 	    "title"    : "Pork Steaks",
-		"ingredients"    : "pork shoulder (or other cheap cut), immerison circulator (we like the [Anova](http://www.amazon.com/gp/product/B00UKPBXM4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00UKPBXM4&linkCode=as2&tag=repl-20&linkId=XMRXWQ35OJNCZVGE)), ",
+		"ingredients"    : "pork shoulder (or other cheap cut), immerison circulator (we like the [Anova](http://www.amazon.com/gp/product/B00UKPBXM4/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00UKPBXM4&amp;linkCode=as2&amp;tag=repl-20&amp;linkId=XMRXWQ35OJNCZVGE)), ",
 		"image"	   : "pork-steaks.jpg",
 	    "url"      : "/recipes/pork-steaks.html"
       
@@ -111,7 +120,7 @@
     {
     
 	    "title"    : "Roasted Okra",
-		"ingredients"    : "1 bunch of okra, salt, pepper, etc to taste, ",
+		"ingredients"    : "1 bunch of okra, salt, pepper, etc to taste, crf, ",
 		"image"	   : "roasted-okra.jpg",
 	    "url"      : "/recipes/roasted-okra.html"
       
@@ -120,7 +129,7 @@
     {
     
 	    "title"    : "Smashed Carrots",
-		"ingredients"    : "1 can carrots, 1 tbsp butter, 2 tbsp parmesan cheese, salt & pepper to taste, ",
+		"ingredients"    : "1 can carrots, 1 tbsp butter, 2 tbsp parmesan cheese, salt &amp; pepper to taste, ",
 		"image"	   : "smashed-carrots.jpg",
 	    "url"      : "/recipes/smashed-carrots.html"
       

@@ -5,9 +5,23 @@
     <description>The plain text recipe database for hackers</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Sep 2018 13:30:47 -0500</pubDate>
-    <lastBuildDate>Thu, 20 Sep 2018 13:30:47 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Tue, 09 Apr 2019 22:39:05 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Apr 2019 22:39:05 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Havermoutpannenkoekjes met appel</title>
+        <description>&lt;p&gt;Dit recept is voor 4 personen (8 pannenkoeken).&lt;/p&gt;
+</description>
+        <link>http://localhost:4000/recipes/Havermoutpannenkoeken%20met%20appel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/recipes/Havermoutpannenkoeken%20met%20appel.html</guid>
+        
+        <category>breakfast,</category>
+        
+        <category>baking</category>
+        
+        
+      </item>
     
       <item>
         <title>Banana Bread</title>
@@ -133,20 +147,6 @@
         <guid isPermaLink="true">http://localhost:4000/recipes/one-minute-muffin.html</guid>
         
         <category>breakfast</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pork Steaks</title>
-        <description>&lt;p&gt;Pork is called “the other white meat”, but this sous vide technique is so dang good I’m gonna graduate it up to “THE white meat”.&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/recipes/pork-steaks.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/pork-steaks.html</guid>
-        
-        <category>mains,</category>
-        
-        <category>meat</category>
         
         
       </item>
