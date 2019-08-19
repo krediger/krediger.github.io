@@ -5,9 +5,23 @@
     <description>The plain text recipe database for hackers</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Apr 2019 22:48:22 +0200</pubDate>
-    <lastBuildDate>Tue, 09 Apr 2019 22:48:22 +0200</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2019 21:30:16 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2019 21:30:16 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Balletjes met Luikse saus</title>
+        <description>
+</description>
+        <link>http://localhost:4000/recipes/Balletjes%20met%20Luikse%20saus.html</link>
+        <guid isPermaLink="true">http://localhost:4000/recipes/Balletjes%20met%20Luikse%20saus.html</guid>
+        
+        <category>dinner,</category>
+        
+        <category>meat</category>
+        
+        
+      </item>
     
       <item>
         <title>Havermoutpannenkoekjes met appel</title>
@@ -135,18 +149,6 @@
         <category>breakfast,</category>
         
         <category>baking</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>One Minute Muffin</title>
-        <description>&lt;p&gt;This flax muffin is quick, vertsatile (just mix in other goodies), and only makes one at a time, so you’ve got no huge tray to tempt you. Custom muffins every morning!&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/recipes/one-minute-muffin.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/one-minute-muffin.html</guid>
-        
-        <category>breakfast</category>
         
         
       </item>
